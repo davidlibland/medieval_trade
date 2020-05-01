@@ -1,2 +1,2 @@
 language = "python3"
-run = "medieval_trade.py"
+run = "python medieval_trade.py"
